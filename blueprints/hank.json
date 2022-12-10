@@ -1,0 +1,22 @@
+{
+
+	"hank" : {
+			"charisma" : 3,
+			"intelligence" : 3,
+			"strength" : 3,
+
+			"sanity" : 3,
+			"reputation" : 3,
+
+			"Piece" : {
+
+				"sprite" : "investigator",
+				"textureName" : "investigator",
+				"name" : "hank",
+				"hp" : 3,
+				"maxHp" : 3
+
+			}
+	}
+
+}

@@ -1,0 +1,9 @@
+add Material
+	set name "archer"
+	set textureName "archer"
+	set posX 700
+	set posY 300
+add Health
+	set currentHP 1
+	set maxHP 1
+add Enemy

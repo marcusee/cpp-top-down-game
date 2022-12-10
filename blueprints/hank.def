@@ -1,0 +1,5 @@
+add Material
+	set name "Hank"
+	set textureName "hank"
+add Controllable
+add WeopenHolder

@@ -1,0 +1,6 @@
+add Piece
+	set name "bed"
+	set texture "bed"
+add Sleepable
+add Structure
+	set standable true

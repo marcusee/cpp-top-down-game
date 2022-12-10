@@ -1,0 +1,41 @@
+﻿  EntityAI.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EntityAPI.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EntityBuilder.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameWorld.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameWorldInput.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\component.hpp(22): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MYComponents.cpp
+  MYSystems.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PathFinder.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SandGrouse2.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\entitybuilder.h(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WindowControl.cpp
+  WorldRenderer.cpp
+c:\program files\ecstasy\include\ecstasy\core\engine.hpp(31): warning C4099: 'ecstasy::ComponentBase': type name first seen using 'struct' now seen using 'class'
+  c:\program files\ecstasy\include\ecstasy\core\entityoperations.hpp(25): note: see declaration of 'ecstasy::ComponentBase'
+c:\users\marcus\dev\2022\sandgrouse2\worldrenderer.cpp(25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcus\dev\2022\sandgrouse2\worldrenderer.cpp(26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  SandGrouse2.vcxproj -> C:\Users\Marcus\dev\2022\SandGrouse2\Debug\SandGrouse2.exe

@@ -1,0 +1,4 @@
+add Material
+	set textureName "railBullet"
+	set speed 750
+add Projectile
